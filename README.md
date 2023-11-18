@@ -10,9 +10,9 @@ This project focuses on applying a genetic algorithm to optimize machine learnin
 
 The datasets used in this project are sourced from Kaggle:
 
-- [Breast Cancer Wisconsin Data](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data): Features extracted from breast mass aspirates.
-- [Parkinson's Disease Detection](https://www.kaggle.com/datasets/niharika41298/parkinsons-data-set): Voice measurements from healthy and Parkinson's patients.
-- [PCOS Dataset](https://www.kaggle.com/datasets/shashidhar07/pcosdata): Clinical measurements for PCOS diagnosis.
+- [Breast Cancer Wisconsin Data](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/): Features extracted from breast mass aspirates.
+- [Parkinson's Disease Detection](https://www.kaggle.com/datasets/debasisdotcom/parkinson-disease-detection/): Vocal measurements from healthy and Parkinson's patients.
+- [PCOS Dataset](https://www.kaggle.com/datasets/shreyasvedpathak/pcos-dataset/): Clinical measurements for PCOS diagnosis.
 
 ## Models and Genetic Algorithm Optimization
 
